@@ -1,1 +1,3 @@
-"# Jacks WebSandbox" 
+# Jacks WebSandbox
+
+## This Repo is a Place where I can Test things in React HTML CSS JS TS...

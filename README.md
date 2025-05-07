@@ -1,3 +1,4 @@
 # Jacks WebSandbox
 
-## This Repo is a Place where I can Test things in React HTML CSS JS TS...
+## A Place to test packages
+e.g. a Sandbox
